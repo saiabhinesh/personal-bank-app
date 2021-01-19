@@ -1,6 +1,7 @@
 import pickle
 import os
 import pathlib
+#account instance
 class Account :
     accNo = 0
     name = ''
